@@ -4,5 +4,12 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hello there!
+I am a newly graduated Computer Science engineer from a school in Paris.
+I love Linux and playing video games.
+
+-----------------------------
+
+Salut!
+Je suis un ingénieur du numérique récemment diplômé d'une école d'ingénieurs à Paris.
+J'adore Linux et geeker.
